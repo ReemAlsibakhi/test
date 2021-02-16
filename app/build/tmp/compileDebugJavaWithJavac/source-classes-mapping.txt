@@ -1,0 +1,17 @@
+com/Test/ProfileActivity.java
+ com.Test.ProfileActivity
+com/Test/BuildConfig.java
+ com.Test.BuildConfig
+com/Test/adapter/MessageAdapter.java
+ com.Test.adapter.MessageAdapter
+ com.Test.adapter.MessageAdapter$1
+ com.Test.adapter.MessageAdapter$2
+ com.Test.adapter.MessageAdapter$3
+ com.Test.adapter.MessageAdapter$OnItemClickListener
+ com.Test.adapter.MessageAdapter$ViewHolder
+com/Test/model/Message.java
+ com.Test.model.Message
+com/Test/MainActivity.java
+ com.Test.MainActivity
+com/Test/ChatRoomActivity.java
+ com.Test.ChatRoomActivity
